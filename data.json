@@ -1,0 +1,18 @@
+{
+  "Inputs": [
+    {
+      "fullname": "Yumna Arif",
+      "Email": "arifyumna@gmail.com",
+      "Address": "Canal road",
+      "Number": "03153457654",
+      "id": 4
+    },
+    {
+      "fullname": "Nabeerah Zaineb",
+      "Email": "NZ235@gmail.com",
+      "Address": "Sadiq road",
+      "Number": "03002546789",
+      "id": 5
+    }
+  ]
+}
